@@ -20,8 +20,8 @@ The repository is structured to separate raw data, processing code, and frozen c
 
 This framework is built on Python 3.8+. To ensure strict mathematical reproducibility, it is highly recommended to install the dependencies inside a dedicated virtual environment.
 
-git clone [https://github.com/nazariofelix-CTB/fibromyalgia-phenotyping-markov.git](https://github.com/nazariofelix-CTB/fibromyalgia-phenottyping-markov.git)
-cd longitudinal-trajectories-framework
+git clone https://github.com/nazariofelix-CTB/fibromyalgia-phenotyping-markov.git
+cd fibromyalgia-phenotyping-markov
 
 python -m venv venv
 source venv/bin/activate

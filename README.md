@@ -20,7 +20,7 @@ The repository is structured to separate raw data, processing code, and frozen c
 
 This framework is built on Python 3.8+. To ensure strict mathematical reproducibility, it is highly recommended to install the dependencies inside a dedicated virtual environment.
 
-git clone [https://github.com/your-username/longitudinal-trajectories-framework.git](https://github.com/your-username/longitudinal-trajectories-framework.git)
+git clone [https://github.com/nazariofelix-CTB/fibromyalgia-phenotyping-markov.git](https://github.com/nazariofelix-CTB/fibromyalgia-phenottyping-markov.git)
 cd longitudinal-trajectories-framework
 
 python -m venv venv
@@ -85,4 +85,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 If you utilize this computational framework, code architecture, or results in your research, please cite our JBI manuscript:
 
-González, N. F., et al. "A Unified Computational Framework for Modelling Longitudinal Trajectories and Recurrent Interventions in Real-World Clinical Data: The Case of Chronic Pain Phenotypes." Journal of Biomedical Informatics (2026). DOI: [Insert Zenodo/Publisher DOI Here]
+González, N. F., et al. "A Unified Computational Framework for Modelling Longitudinal Trajectories and Recurrent Interventions in Real-World Clinical Data: The Case of Chronic Pain Phenotypes." Journal of Biomedical Informatics (2026). DOI: (https://doi.org/10.5281/zenodo.20528593)

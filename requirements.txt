@@ -1,0 +1,18 @@
+# --- Core Data Science & Analytics ---
+numpy==1.24.3
+pandas==2.0.3
+scipy==1.10.1
+
+# --- Machine Learning & Clustering ---
+scikit-learn==1.2.2
+
+# --- Survival Analysis & Intensity Formulations (Andersen-Gill) ---
+lifelines==0.27.7
+
+# --- Visualization Pipeline ---
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# --- Interactive Environment Dependencies ---
+ipykernel==6.23.1
+notebook==6.5.4
